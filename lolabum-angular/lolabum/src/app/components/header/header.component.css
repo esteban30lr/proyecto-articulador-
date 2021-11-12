@@ -1,0 +1,17 @@
+.contenedor{
+    background-color: rgb(65, 65, 65);
+    border-radius: 4px;
+    padding: 1
+    px;
+}
+
+.lista{
+    color: white;
+    text-decoration: none;
+    padding: auto;
+    font-family: "calibri";
+}
+
+li{
+    padding: 4px;
+}

@@ -2,7 +2,8 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: 'main',
-    templateUrl: './main-vista.component.html'
+    templateUrl: './main-vista.component.html',
+    styleUrls: ['./main-vista.component.css']
 })
 
 export class MainVista{

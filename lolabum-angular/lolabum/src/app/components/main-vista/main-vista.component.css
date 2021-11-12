@@ -1,0 +1,27 @@
+.contenedor{
+    background-color: rgb(65, 65, 65);
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 20px;
+    height: 450px;
+}
+
+.contenedor-titulo{
+    padding: 5px;
+}
+
+.titulo{
+    font-family: "calibri";
+    color: aliceblue;
+    background-color: none;
+}
+
+.contenedor-parrafo{
+    padding: 5px;
+}
+
+.parrafo{
+    font-family: "calibri";
+    color: aliceblue;
+    background-color: none;
+}

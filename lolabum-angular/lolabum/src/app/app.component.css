@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    padding: 10px;
+    padding-bottom: 15px;
+}
+
+.contenido{
+    height: 500px;
+    margin: 0 auto;
+    padding: 0px;
+
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.caja-main{
+    margin-right: 10px;
+}
+
+.caja-login{
+    margin-left: 10px;
+}
